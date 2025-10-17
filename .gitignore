@@ -2,3 +2,12 @@
 
 # Node
 node_modules/
+
+# Hardhat
+artifacts/
+cache/
+
+# Environment Variables
+.env.keys
+.env
+.env.*
