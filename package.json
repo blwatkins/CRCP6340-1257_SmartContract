@@ -1,0 +1,21 @@
+{
+  "name": "crcp6340-1257_smartcontract",
+  "version": "0.9.0",
+  "description": "Brittni's implementation of the smart contract project for CRCP 6340; Fall 2025 term.",
+  "private": true,
+  "homepage": "https://github.com/blwatkins/CRCP6340-1257_SmartContract#readme",
+  "bugs": {
+    "url": "https://github.com/blwatkins/CRCP6340-1257_SmartContract/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blwatkins/CRCP6340-1257_SmartContract.git"
+  },
+  "license": "MIT",
+  "author": "brittni watkins",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
