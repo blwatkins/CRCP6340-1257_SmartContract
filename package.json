@@ -20,5 +20,8 @@
     "test:future": "hardhat test",
     "test:future:coverage": "hardhat coverage",
     "deploy:future": "node ./src/deploy.js"
+  },
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.51.0"
   }
 }
